@@ -3,7 +3,7 @@
 #author: fanjiangqi@gmail.com
 #date: 2019-05-12 16:26
 #https://leetcode.com/problems/longest-palindromic-substring/
-#暴力求解，复杂度n^2
+#暴力求解，复杂度n^2（PS：复杂度实际为2^n）
 
 import sys
 import ast
